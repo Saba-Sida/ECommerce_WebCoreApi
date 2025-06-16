@@ -19,7 +19,7 @@ There are the following entities defined in here:
 - User
 - Product
 - Product category
-- Product images
+- Product images  
 With according relationships by the foreign keys
 # What need to improve next?
 This is an incomplete (BUT ALREADY FUNCTIONAL) project so
